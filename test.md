@@ -1,6 +1,6 @@
-### Heading of Test.md
+# Heading of Test.md
 ## Heading 2
-# Heading 1
+### Heading 1
 
 This is for a bit of markdown practice.
 
